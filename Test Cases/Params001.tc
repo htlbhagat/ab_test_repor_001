@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Params001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2705a2b-5bf5-4263-9cf9-2f9a95a585be</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e6fda468-743a-4436-b835-736ecb04f81e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'fish'</defaultValue>
+      <description></description>
+      <id>e6fda468-743a-4436-b835-736ecb04f81e</id>
+      <masked>false</masked>
+      <name>searchText</name>
+   </variable>
+</TestCaseEntity>

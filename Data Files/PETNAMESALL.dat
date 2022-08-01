@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>PETNAMESALL</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>350ab914-c9af-40b3-acc0-da5bd49d07ef</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Rat</data>
+   <data>CAT</data>
+   <data>PARROT</data>
+   <data>DOG</data>
+   <data>reptile</data>
+   <data>dragon</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>MY PETS</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

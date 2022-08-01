@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Params</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18d0d322-1486-49be-b805-0257cfba58d1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e666c63e-c45e-4660-8fad-c2add85b3300</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'fish'</defaultValue>
+      <description></description>
+      <id>e666c63e-c45e-4660-8fad-c2add85b3300</id>
+      <masked>false</masked>
+      <name>VARPETNAME</name>
+   </variable>
+</TestCaseEntity>
